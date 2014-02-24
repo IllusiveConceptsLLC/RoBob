@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Kat2D\KCamera.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Kat2D\KCamera.cs" Line="32" Column="12" />
+      <File FileName="Assets\Scripts\Kat2D\Engine.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Kat2D\Sprite.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Kat2D\Data\ImageData.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Kat2D\Data\TextureData.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Kat2D\KCamera.cs" Line="109" Column="1" />
+      <File FileName="Assets\Scripts\Kat2D\Architect.cs" Line="362" Column="21" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
