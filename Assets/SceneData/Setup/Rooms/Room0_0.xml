@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<Room xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Room0_0</Name>
+  <PositionX>0</PositionX>
+  <PositionY>0</PositionY>
+  <Height>736</Height>
+  <Width>1280</Width>
+</Room>

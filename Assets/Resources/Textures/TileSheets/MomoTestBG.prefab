@@ -1,0 +1,159 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &100000
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 400000}
+  - 114: {fileID: 11400000}
+  m_Layer: 0
+  m_Name: MomoTestBG
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &400000
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7348fa2d9a0e94140a986c0bc80e70ea, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  texture: {fileID: 2800000, guid: 3c90a4570f67a4f45bfa406140d6c31f, type: 3}
+  textureData:
+    id: MomoTestBG
+    image_count: 20
+    width: 64
+    height: 512
+    images:
+    - index: 0
+      origin_x: 0
+      origin_y: 0
+      width: 32
+      height: 32
+    - index: 1
+      origin_x: 32
+      origin_y: 0
+      width: 32
+      height: 32
+    - index: 2
+      origin_x: 0
+      origin_y: 32
+      width: 32
+      height: 32
+    - index: 3
+      origin_x: 32
+      origin_y: 32
+      width: 32
+      height: 32
+    - index: 4
+      origin_x: 0
+      origin_y: 64
+      width: 32
+      height: 32
+    - index: 5
+      origin_x: 32
+      origin_y: 64
+      width: 32
+      height: 32
+    - index: 6
+      origin_x: 0
+      origin_y: 96
+      width: 32
+      height: 32
+    - index: 7
+      origin_x: 32
+      origin_y: 96
+      width: 32
+      height: 32
+    - index: 8
+      origin_x: 0
+      origin_y: 128
+      width: 32
+      height: 32
+    - index: 9
+      origin_x: 32
+      origin_y: 128
+      width: 32
+      height: 32
+    - index: 10
+      origin_x: 0
+      origin_y: 160
+      width: 32
+      height: 32
+    - index: 11
+      origin_x: 32
+      origin_y: 160
+      width: 32
+      height: 32
+    - index: 12
+      origin_x: 0
+      origin_y: 192
+      width: 32
+      height: 32
+    - index: 13
+      origin_x: 32
+      origin_y: 192
+      width: 32
+      height: 32
+    - index: 14
+      origin_x: 0
+      origin_y: 224
+      width: 32
+      height: 32
+    - index: 15
+      origin_x: 32
+      origin_y: 224
+      width: 32
+      height: 32
+    - index: 16
+      origin_x: 0
+      origin_y: 256
+      width: 32
+      height: 32
+    - index: 17
+      origin_x: 32
+      origin_y: 256
+      width: 32
+      height: 32
+    - index: 18
+      origin_x: 0
+      origin_y: 288
+      width: 32
+      height: 32
+    - index: 19
+      origin_x: 32
+      origin_y: 288
+      width: 32
+      height: 32
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 100000}
+  m_IsPrefabParent: 1
+  m_IsExploded: 1
